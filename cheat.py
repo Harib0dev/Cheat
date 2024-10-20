@@ -1,7 +1,7 @@
 import asyncio
 from aiocryptopay import AioCryptoPay, Networks
 
-crypto = AioCryptoPay(token='239902:AA5391uAyBLB9qvi8WnuOo8qBmzHPOH1v6Z', network=Networks.MAIN_NET)
+crypto = AioCryptoPay(token='166493:AArMfWOJTA04Hp2co5dn9fClfZ27MSGnhzl', network=Networks.MAIN_NET)
 
 async def info():
     # Получение информации о профиле
